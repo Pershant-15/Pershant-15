@@ -4,7 +4,8 @@ I'm **Pershant**, a web developer based in india.
 
 I create and build whatever I can imagine.
 
-My main tech stack is **HTML, CSS, Tailwind, Javascript, Node.js, React, MongoDB, Prisma **.  
+My main tech stack is **HTML, CSS, Tailwind, Javascript, Node.js, React, MongoDB**.  
+
 My favorite tools are **Visual Studio Code, github, chrome**.
 
 ## Fun Facts
