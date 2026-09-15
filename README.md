@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Pershant-15/Pershant-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Pershant**, a web developer based in india.
 
-Here are some ideas to get you started:
+I create and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **HTML, CSS, Tailwind, Javascript, Node.js, React, MongoDB, Prisma **.  
+My favorite tools are **Visual Studio Code, github, chrome**.
+
+## Fun Facts
+
+- ☕ I like coffee or tea
+- ⚔️ Demon Slayer is my favorite anime
+- 🎯 Hobbies:gym, building things
