@@ -11,5 +11,4 @@ My favorite tools are **Visual Studio Code, github, chrome**.
 ## Fun Facts
 
 - ☕ I like coffee or tea
-- ⚔️ Demon Slayer is my favorite anime
 - 🎯 Hobbies:gym, building things
