@@ -10,5 +10,5 @@ My favorite tools are **Visual Studio Code, github, chrome**.
 
 ## Fun Facts
 
-- ☕ I like coffee or tea
-- 🎯 Hobbies:gym, building things
+- ☕ I like coffee or tea.
+- 🎯 Hobbies:gym, building things.
