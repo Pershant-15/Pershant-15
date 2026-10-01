@@ -9,5 +9,5 @@ My main tech stack is **HTML, CSS, Tailwind, Javascript, Node.js, React, MongoDB
 My favorite tools are **Visual Studio Code, github, chrome**.
 
 ## Fun Facts
-- ☕ I like coffee or tea
-- 🎯 Hobbies:gym, building things 
+- ☕ I like coffee or tea.
+- 🎯 Hobbies:gym, building things .
